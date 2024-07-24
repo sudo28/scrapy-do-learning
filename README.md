@@ -1,4 +1,3 @@
-# <img src="https://upload.wikimedia.org/wikipedia/en/c/c6/Scrappy-doo.png" width="60" height="100"/> <div style="display:inline-block; position:relative; top:-36px">Scrapy-Doo!</div><div style="display: inline-block; position: relative; top: -16px; left: -62px;font-size: 15px">Pre-reqs</div>
 
 ## Knowledge/Traits needed to excel at this position:
 ### V 0.0.1
