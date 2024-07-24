@@ -63,9 +63,4 @@
   * [selectorshub tutorial/ xpath finder chrome extension](https://www.youtube.com/watch?v=Kik4HPOIvfY)
   * [Finding Xpath and CSS in Chrome - Xpath Helper](https://www.youtube.com/watch?v=uLOPFCZLgHw)
 
-### Guesstimated target persona:
-* python hobbyist
-* 1st year college student (preferably cs major)
-* cs graduate not in the field
-* consultant (ie upwork, etc)
- * Anyone who can spend dedicated time working on this every week
+
